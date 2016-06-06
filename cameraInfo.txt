@@ -1,0 +1,11 @@
+Product Name:
+OPT9221
+
+Vendor ID:
+0x0451
+
+Product ID:
+0x9105
+
+Serial number of the USB device:
+918760916225
